@@ -20,7 +20,8 @@ I am a dedicated QA Engineer with three years of experience in software testing.
 > **Code Example:**  
 ``function multiply(a, b){``  
   ``return a * b``  
-``}``
+``}``  
+
 ***
 ## Experience
 **QA Engineer and customer service specialist** from 2021 to Present
