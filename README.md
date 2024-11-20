@@ -1,1 +1,1 @@
-# rsschool-cv
+https://NastaKul.github.io/rsschool-cv/
